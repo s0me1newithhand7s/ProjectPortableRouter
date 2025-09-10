@@ -88,4 +88,16 @@ i hope this answers question "why".
 
 huge thanks to [Askhat](https://github.com/Askhalion) for helping me with this
 
+we are available at:
+
+[GitHub](https://github.com/s0me1newithhand7s/ProjectPortableRouter)
+
+[GitLab](https://gitlab.com/s0me1newithhand7s/projectportablerouter)
+
+[Codeberg](https://codeberg.org/s0me1newithhand7s/ProjectPortableRouter)
+
+[my own git](https://git.hand7s.org/s0me1newithhand7s/ProjectPortableRouter)
+
+---
+
 [![staaaaars](https://api.star-history.com/svg?repos=s0me1newithhand7s/PortableRouterProject=Date)](https://www.star-history.com/#s0me1newithhand7s/PortableRouterProject&Date)
