@@ -1,7 +1,7 @@
 (if you have a better name pls create an issue xd)
 <h1 align="center"> Project "Portable Router" </h1>
 
-> [!WARN] 
+> [!WARNING] 
 > i'm **NOT** responsible for the damage that this process could cause to your hardware. do this at your own risk and be prepared to debug, and debug a lot. in case you aren't familiar with basics of linux cli, OpenWRT / forks and networking - take your time, this will be hard. you have been warned.
 
 ---
@@ -24,7 +24,7 @@ in `src/` we have images and etc for text;
 
 <h2 align="center"> Disclaimer </h2>
 
-!!! **read WARN once more** !!! and this:
+!!! **read WARNING once more** !!! and this:
 1. if you haven't tried OpenWRT / LEDE / etc - **read how to use it**. this repo **is not** a OpenWRT support forum!
 2. if you have zero / close to zero experience in networking - **do your research first**. this repo **is not** a networking 101!
 3. do **not** create issues like "Help my <routername> is bricked!" or "Will it work with <routername>?". do your research first! **OR**
