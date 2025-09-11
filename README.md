@@ -92,11 +92,7 @@ we are available at:
 
 [GitHub](https://github.com/s0me1newithhand7s/ProjectPortableRouter)
 
-[GitLab](https://gitlab.com/s0me1newithhand7s/projectportablerouter)
-
-[Codeberg](https://codeberg.org/s0me1newithhand7s/ProjectPortableRouter)
-
-[my own git](https://git.hand7s.org/s0me1newithhand7s/ProjectPortableRouter)
+[Forgejo](https://git.hand7s.org/s0me1newithhand7s/ProjectPortableRouter)
 
 ---
 
