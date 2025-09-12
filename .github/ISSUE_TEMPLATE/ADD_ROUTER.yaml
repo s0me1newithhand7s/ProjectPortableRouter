@@ -1,0 +1,55 @@
+---
+name: "router adding issue"
+description: "issue for adding router into repository"
+title: "[ADD]: "
+labels: ["new_router", "need_testing", "need_assistance"]
+body:
+  - type: "markdown"
+    attributes:
+      value: |
+        huge thanks for contributing! we need to make sure that this issue is suitable for our standarts. 
+
+  - type: "textarea"
+    id: "router-name"
+    attributes:
+      label: "router name"
+      description: "tell us your router name!"
+      placeholder: "e.g.: Cudy TR3600"
+      value: "any router goes here."
+    validations:
+      required: true
+
+  - type: "checkboxes"
+    id: "duplicate"
+    attributes:
+      label: "checks"
+      description: "before commiting this issue you checked that no similar issue exist / closed, suggested router is supporting openwrt / forks, have USB for modem."
+      options:
+        - label: "no similar PRs?"
+          required: true
+        - label: "OpenWRT supported?"
+          required: true
+        - label: "USB for Modem?"
+          required: true
+
+  - type: "dropdown"
+    id: "owrt-branch"
+    attributes:
+      label: "branch"
+      description: "we need to be sure that your suggested router have full support on stable branch. don't worry, it's more of a failsave"
+      options:
+        - "pre-built stable"
+        - "manual built stable"
+        - "no stable builts (snapshot only)"
+      default: 1
+    validations:
+      required: true
+
+  - type: "textarea"
+    id: "specs"
+    attributes:
+      label: "router specs"
+      description: "you need to provide full router specs! you can borrow them from openwrt official site, or with datasheet."
+    validations:
+      required: true
+---
