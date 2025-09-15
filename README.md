@@ -54,9 +54,12 @@ optionally, you can have:
 <h2 align="center"> Current Tested Devices </h2>
 
 | Image | Status | Link | Author |
-| - | - | - | -| 
-| <img src="https://www.cudy.com/cdn/shop/files/TR1200.png" width="250">  | Working; Small amount of RAM and not so fast CPU, stable branch; | [Here](./doc/cudy/TR1200.md) | hand7s |
-| <img src="https://www.cudy.com/cdn/shop/files/TR3000.png" width="250"> | Working; 128mb revision is preferred since it's on a stable branch; | [Here](./doc/cudy/TR3000.md) | hand7s |
+| - | - | - | - | 
+| <img src="https://www.cudy.com/cdn/shop/files/TR1200.png" width="250">  | Working; Small amount of RAM and not so fast CPU, stable branch; | [Here](./doc/routers/cudy/TR1200.md) | hand7s |
+| <img src="https://www.cudy.com/cdn/shop/files/TR3000.png" width="250"> | Working; 128mb revision is preferred since it's on a stable branch; | [Here](./doc/routers/cudy/TR3000.md) | hand7s |
+| - | - | - | - |
+| <img src="https://www.fibocom.com/uploadfiles/2022/04/20220413101231199.png" width="250"> | Requiers workaround; Cat.9, medoicre speed, any SIM / eSIM works fine | [Here](./doc/modems/l850gl.md) | hand7s |
+| <img src="https://cdn.techship.com//uploads/images/1698/10919_190425.png" width="250"> | Requiers workaround; Cat.16, good speed, any SIM / eSIM works fine | [Here](./doc/modems/l850gl.md) | hand7s 
 
 <h2 align="center"> Contribution </h2>
 
@@ -64,9 +67,12 @@ to expand list above you need to:
 1. create an issue with "add router" template
 2. go trough testings (with help from community ofc)
 3. fork **this** repo with branch's name of your router, e.g. `xiaomi_ax3200`
-4. write an `.md` in `doc/` directory in a respected directory, e.g. `doc/cudy/TR3600.md` 
+4. write an `.md` in `doc/routers/` directory in a respected directory, e.g. `doc/cudy/TR3600.md`
 5. add your router to [this](./doc/content.md) `.md` 
 6. open a PR!
+
+p.s.
+you can init a modem with you router btw
 
 <h2 align="center"> But.. Why? </h2>
 
